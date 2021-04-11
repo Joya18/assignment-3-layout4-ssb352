@@ -1,0 +1,131 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header_perent{
+    overflow: hidden;
+}
+.header1{
+    width: 20%;
+    color:black;
+    background-color:rgb(218, 198, 175);
+    text-align: center;
+    float: left;
+    height: 100px;
+  
+
+    }
+    .header2{
+    width: 80%;
+    color:black;
+    background-color: brown;
+    text-align: center;
+    float: left;
+    height: 100px;
+  
+    }
+   
+    
+    
+
+
+.left_part{
+    color: black;
+    background-color: rgb(241, 181, 132);
+    width: 20%;
+    width: 20%;
+    height: 400px;
+    text-align: center;
+    float: left;
+    padding-top: 45px;
+}
+
+.center_part{
+    color: black;
+    background-color: rgb(20, 144, 216);
+    width: 60%;
+    height: 400px;
+    text-align: center;
+    float: left;
+    
+   
+}
+
+.right_part{
+    color: black;
+    background-color: rgb(241, 181, 132);
+    width: 20%;
+    height: 400px;
+    text-align: center;
+    float: left;
+    padding-top: 45px;
+}
+.top{
+    height: 100px;
+    color: black;
+    background-color: rgb(109, 47, 99);
+    
+}
+.middle{
+    height: 200px;
+    color: black;
+    background-color: rgb(148, 64, 64);
+   
+}
+.middle_left{
+     width: 50%;
+     height: 100%;
+     float: left;
+     background-color: rgb(221, 130, 180);
+}
+.middle_right{
+    width: 50%;
+    height: 100%;
+    float: left;
+    background-color: rgb(187, 112, 174);
+}
+
+.bottom{
+    height: 200px;
+    color: black;
+    background-color: rgb(109, 47, 99);
+}
+.parent_center{
+    overflow: hidden;
+}
+
+.comment_parent{
+overflow: hidden;
+}
+
+.main_content{
+    height: 300PX;
+    color: black;
+    background-color: rgb(218, 198, 175);
+    width: 80%;
+    text-align: center;
+    padding-top: 40px;
+    float: right;
+
+}
+.main_content2{
+    height: 300px;
+    color: black;
+    background-color: brown;
+    width: 20%;
+    text-align: center;
+    padding-top: 40px;
+    float: left;
+
+
+}
+
+
+
+.footer{
+        height: 50px;
+        color: black;
+        background-color: rgb(160, 185, 231);
+        text-align: center;
+        padding-top: 30px;
+}
